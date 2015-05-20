@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.homepage          = 'https://github.com/treehouse/BWWalkthrough'
   s.source            = { :git => 'https://github.com/treehouse/BWWalkthrough.git', :tag => "#{s.version}" }
   s.ios.frameworks    = 'UIKit'
-  s.ios.source_files  = 'BWWalkthrough/*.{h,m}'
+  s.ios.source_files  = 'BWWalkthrough/*.{swift}'
 end
