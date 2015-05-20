@@ -1,6 +1,6 @@
 //
 //  BWWalkthroughViewController.swift
-//  Reviews
+//  BWWalkthrough
 //
 //  Created by Yari D'areglia on 15/09/14 (wait... why do I wrote code the Day of my Birthday?! C'Mon Yari... )
 //  Copyright (c) 2014 Yari D'areglia. All rights reserved.
